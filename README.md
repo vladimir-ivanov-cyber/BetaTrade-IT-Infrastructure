@@ -2,7 +2,7 @@
 # BetaTrade – Modernisierung der IT-Infrastruktur
 
 ## Projektübersicht
-Dokumentiertes IT-Infrastrukturprojekt im Rahmen der Fachinformatiker-Ausbildung (Systemintegration), Februar–März 2026.
+Dokumentiertes IT-Infrastrukturprojekt im Rahmen der IT-SecurityPro-Weiterbildung, Februar–März 2026.
 
 ## Technische Schwerpunkte
 - Netzwerksegmentierung mit VLANs und Inter-VLAN-Routing
